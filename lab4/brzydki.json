@@ -1,0 +1,506 @@
+{
+   "type": "Collection",
+   "jobDetails":
+   {
+      "jobId": 345345,
+      "jobName": "XSDR_344985_WGZX_2022_A008_V",
+      "jobType": "Stereo",
+      "workspaceId": 345353,
+      "changesTimestamp": "2022-08-06T03:29:46Z"
+   },
+   "maiaExtractProcessDetails":
+   {
+      "extractorVersion": "1.10",
+      "extractionTimestamp": "2022-08-06T03:30:35Z",
+      "extractMode": "Incremental Update",
+      "maiaSavepoint": null,
+      "queryBox": null,
+      "fileSequenceNumber": 110572
+   },
+   "features": [
+   {
+      "type": "Feature",
+      "geometry":
+      {
+         "type": "Polygon",
+         "coordinates":
+         [
+            [
+               [445751.000, 244970.000, 138.984], [446492.041, 244970.000, 101.861], [446492.041, 245088.372, 102.604],
+               [445751.000, 245088.372, 140.312], [445751.000, 244970.000, 138.984]
+            ]
+         ]
+      },
+      "properties":
+      {
+         "featureGroup": "Named Extent+Group+None",
+         "featureId": "a6a7e7ff-71d3-e455-0a2c5c6a",
+         "toid": "3544354345349395541",
+         "alternativeToids": [],
+         "changeEventType": "update",
+         "jobReference": 3453654,
+         "validFromTimestamp": "2022-08-06T03:29:46Z",
+         "changeHistory":
+         [
+            {
+               "changeDate": "2003-03-13",
+               "reasonForChange": "New"
+            },
+            {
+               "changeDate": "2005-09-20",
+               "reasonForChange": "Modified"
+            },
+            {
+               "changeDate": "2018-07-27",
+               "reasonForChange": "Modified"
+            },
+            {
+               "changeDate": "2022-08-03",
+               "reasonForChange": "Attributes"
+            }
+         ],
+         "accessTopologyComponent": null,
+         "administrativeExceptionComponent": null,
+         "administrativeUnitComponent": null,
+         "anomalyComponent": null,
+         "areaHeightComponent": null,
+         "baseFormComponent":
+         {
+            "componentId": "a6a7e7ff-232fg-e222-e040-adg354fg345",
+            "versionNumber": 1,
+            "source": null,
+            "applicableContracts": [],
+            "form": "Named Thoroughfare",
+            "versionCreationMetadata":
+            {
+               "reasonForChange": "Refinement",
+               "captureMethod": "Unknown",
+               "confidenceLevel": "Confident",
+               "editDate": "2005-09-20",
+               "evidenceDate": "2005-09-20",
+               "jobReference": 0
+            }
+         },
+         "baseFunctionComponents": [],
+         "boundaryLinkComponent": null,
+         "controlComponent": null,
+         "crossingComponent": null,
+         "dmuComponent": null,
+         "evidenceComponent": null,
+         "externalSourceComponent": null,
+         "geometricZoneComponent": null,
+         "gradeSeparationComponent": null,
+         "hasContentDefinedByComponent": null,
+         "hasDetailDefinedByComponent":
+         {
+            "componentId": "2342432jj-71dc-e222-e040-a234j324k5c6a",
+            "versionNumber": 3,
+            "source": null,
+            "applicableContracts": [],
+            "networkLinkReferences":
+            [
+               "as344fr-8385-bbae-e040-a40a262c31b2",
+               "9eeb7c1a-d123-41ca-b531-ssdf44556"
+            ],
+            "networkNodeReferences": [],
+            "waterLinkReferences": [],
+            "versionCreationMetadata":
+            {
+               "reasonForChange": "Real",
+               "captureMethod": "Collection",
+               "confidenceLevel": "Confident",
+               "editDate": "2022-08-03",
+               "evidenceDate": "2019-07-05",
+               "jobReference": 34567535
+            }
+         },
+         "hasParentComponent": null,
+         "heightDatumComponent": null,
+         "indicatesBeginningOfComponent": null,
+         "interactsComponent": null,
+         "legalDocumentAttribution": null,
+         "lifecycleStatusComponent":
+         {
+            "componentId": "a6a7e7ff-71d7-e222-e040-a40a262c5c6a",
+            "versionNumber": 1,
+            "source": null,
+            "applicableContracts": [],
+            "lifecycleStatus": "Defined",
+            "versionCreationMetadata":
+            {
+               "reasonForChange": "Refinement",
+               "captureMethod": "Unknown",
+               "confidenceLevel": "Confident",
+               "editDate": "2005-09-20",
+               "evidenceDate": "2005-09-20",
+               "jobReference": 0
+            }
+         },
+         "linearHeightComponent": null,
+         "linkTopologyComponent": null,
+         "maintainersNoteComponent": null,
+         "nameComponents":
+         [
+            {
+               "componentId": "a6a7e7ff-71d8-e222-e040-bsfds3243",
+               "versionNumber": 1,
+               "source": null,
+               "applicableContracts": [],
+               "distinctiveNameOrNumber": "Lane",
+               "language": "English",
+               "authorities":
+               [
+                  {
+                     "authorisingRole": "Initial Load",
+                     "authorityType": "Product History",
+                     "confirmationDate": "2005-09-20",
+                     "confirmationType": "Name",
+                     "note": null
+                  }
+               ],
+               "versionCreationMetadata":
+               {
+                  "reasonForChange": "Refinement",
+                  "captureMethod": "Unknown",
+                  "confidenceLevel": "Confident",
+                  "editDate": "2005-09-20",
+                  "evidenceDate": "2005-09-20",
+                  "jobReference": 0
+               }
+            }
+         ],
+         "networkReferenceComponent": null,
+         "oneWayRouteInformationComponent": null,
+         "overheadNodeComponent": null,
+         "overheadPointsComponent": null,
+         "physicalRestrictionComponent": null,
+         "planarAreaLocationComponent":
+         {
+            "componentId": "a6a7e7ff-71d5-e222-e040-qwe234234rw",
+            "versionNumber": 3,
+            "source": null,
+            "applicableContracts": [],
+            "locationType": "Not Applicable",
+            "vagueness": "Stylised",
+            "authorities": [],
+            "versionCreationMetadata":
+            {
+               "reasonForChange": "Real",
+               "captureMethod": "Photogrammetry",
+               "confidenceLevel": "Confident",
+               "editDate": "2022-08-03",
+               "evidenceDate": "2019-07-05",
+               "jobReference": 34567535
+            }
+         },
+         "planarLinearLocationComponent": null,
+         "planarPointLocationComponent": null,
+         "pointHeightComponent": null,
+         "primaryStructureComponent": null,
+         "roadLinkComponent": null,
+         "routeLocationComponent": null,
+         "siteNodeComponent": null,
+         "stakeholderComponents": [],
+         "symbolCartographyComponents": [],
+         "textCartographyComponents":
+         [
+            {
+               "componentId": "689a801f-9b91-4d72-b19b-851b6c88144f",
+               "versionCreationMetadata":
+               {
+                  "captureMethod": "Collection",
+                  "confidenceLevel": "Confident",
+                  "editDate": "2018-07-26",
+                  "evidenceDate": "2018-07-26",
+                  "jobReference": 42334591,
+                  "reasonForChange": "Real"
+               },
+               "versionNumber": 1,
+               "source": null,
+               "applicableContracts": [],
+               "textElements":
+               [
+                  {
+                     "anchorPoint": "Lower Left",
+                     "font": "Normal Text",
+                     "fontHeight": "2.75 m",
+                     "groupOrder": 1,
+                     "orientation": 357.3,
+                     "position":
+                     {
+                        "type": "Point",
+                        "coordinates": [446819.26, 245084.52]
+                     },
+                     "textString": "MILL LANE (TRACK)"
+                  }
+               ]
+            },
+            {
+               "componentId": "a6ae45e5-3439-f291-e040-a40a262c1e53",
+               "versionCreationMetadata":
+               {
+                  "captureMethod": "Unknown",
+                  "confidenceLevel": "Confident",
+                  "editDate": "2005-03-07",
+                  "evidenceDate": "2005-03-07",
+                  "jobReference": 0,
+                  "reasonForChange": "Refinement"
+               },
+               "versionNumber": 1,
+               "source": null,
+               "applicableContracts": [],
+               "textElements":
+               [
+                  {
+                     "anchorPoint": "Centre",
+                     "font": "Normal Text",
+                     "fontHeight": "2.75 m",
+                     "groupOrder": 1,
+                     "orientation": 10.2,
+                     "position":
+                     {
+                        "type": "Point",
+                        "coordinates": [445975.95, 245013.95]
+                     },
+                     "textString": "MILL LANE"
+                  }
+               ]
+            }
+         ],
+         "thirdPartyInformationComponent": null,
+         "tideInformationComponent": null,
+         "topo93SeedGeometryComponent": null,
+         "waterFlowComponent": null,
+         "waterNavigabilityComponent": null,
+         "waterPermanenceComponent": null,
+         "waterProvenanceComponent": null,
+         "zoneLocationComponent": null
+      }
+   },
+   {
+      "type": "Feature",
+      "geometry":
+      {
+         "type": "LineString",
+         "coordinates":
+         [
+            [446492.041, 245087.712, 102.616], [446498.463, 245087.710, 103.178], [446503.199, 245088.442, 103.205],
+            [446510.930, 245089.636, 102.862]
+         ]
+      },
+      "properties":
+      {
+         "featureGroup": "Network+Line+None",
+         "featureId": "17e3f1c4-1802-4952-a826-ba148d063716",
+         "toid": "osgb5000005233652043",
+         "alternativeToids": [],
+         "changeEventType": "delete",
+         "jobReference": 34567535,
+         "validFromTimestamp": "2022-08-06T03:29:46Z",
+         "changeHistory":
+         [
+            {
+               "changeDate": "2018-07-28",
+               "reasonForChange": "New"
+            }
+         ],
+         "accessTopologyComponent": null,
+         "administrativeExceptionComponent": null,
+         "administrativeUnitComponent": null,
+         "anomalyComponent": null,
+         "areaHeightComponent": null,
+         "baseFormComponent":
+         {
+            "componentId": "3cf5b258-fe22-4ebc-a779-75932395e98e",
+            "versionNumber": 1,
+            "source": null,
+            "applicableContracts": [],
+            "form": "Single Carriageway",
+            "versionCreationMetadata":
+            {
+               "reasonForChange": "Real",
+               "captureMethod": "Collection",
+               "confidenceLevel": "Confident",
+               "editDate": "2018-07-26",
+               "evidenceDate": "2018-07-26",
+               "jobReference": 42334591
+            }
+         },
+         "baseFunctionComponents":
+         [
+            {
+               "componentId": "ad7234f3fa-1fbc-4880-b55f-b0e04ab14430",
+               "versionNumber": 1,
+               "source": null,
+               "applicableContracts": [],
+               "function": "Restricted Access",
+               "operationalStatus": "Active",
+               "qualifiers": [],
+               "versionCreationMetadata":
+               {
+                  "reasonForChange": "Real",
+                  "captureMethod": "Collection",
+                  "confidenceLevel": "Confident",
+                  "editDate": "2018-07-26",
+                  "evidenceDate": "2018-07-26",
+                  "jobReference": 42334591
+               }
+            }
+         ],
+         "boundaryLinkComponent": null,
+         "controlComponent": null,
+         "crossingComponent": null,
+         "dmuComponent": null,
+         "evidenceComponent": null,
+         "externalSourceComponent": null,
+         "geometricZoneComponent": null,
+         "gradeSeparationComponent":
+         {
+            "componentId": "ae22d84d-dab4-409d-9637-sdfs34234",
+            "versionNumber": 1,
+            "source": null,
+            "applicableContracts": [],
+            "gradeAtStart": 0,
+            "gradeAtEnd": 0,
+            "versionCreationMetadata":
+            {
+               "reasonForChange": "Real",
+               "captureMethod": "Collection",
+               "confidenceLevel": "Confident",
+               "editDate": "2018-07-26",
+               "evidenceDate": "2018-07-26",
+               "jobReference": 42334591
+            }
+         },
+         "hasContentDefinedByComponent": null,
+         "hasDetailDefinedByComponent": null,
+         "hasParentComponent": null,
+         "heightDatumComponent": null,
+         "indicatesBeginningOfComponent": null,
+         "interactsComponent": null,
+         "legalDocumentAttribution": null,
+         "lifecycleStatusComponent":
+         {
+            "componentId": "709b0382-2b30-4ad3-9f6f-ere334te332ret",
+            "versionNumber": 1,
+            "source": null,
+            "applicableContracts": [],
+            "lifecycleStatus": "Defined",
+            "versionCreationMetadata":
+            {
+               "reasonForChange": "Real",
+               "captureMethod": "Collection",
+               "confidenceLevel": "Confident",
+               "editDate": "2018-07-26",
+               "evidenceDate": "2018-07-26",
+               "jobReference": 42334591
+            }
+         },
+         "linearHeightComponent":
+         {
+            "componentId": "cd23423-ffea-4217-89b4-344frfre334",
+            "versionNumber": 1,
+            "source": null,
+            "applicableContracts": [],
+            "lastInterpolationDate": "2018-07-28",
+            "heightLocationType": "Level",
+            "versionCreationMetadata":
+            {
+               "reasonForChange": "Real",
+               "captureMethod": "Interpolation",
+               "confidenceLevel": "Confident",
+               "editDate": "2018-07-28",
+               "evidenceDate": "2018-07-28",
+               "jobReference": 423424391
+            }
+         },
+         "linkTopologyComponent":
+         {
+            "componentId": "2342342-342435-45dc-83d3-34612b1d74a8",
+            "versionNumber": 1,
+            "source": null,
+            "applicableContracts": [],
+            "startNetworkNodeReference": "a6a39ce2-2abd-7486-e040-de3452c6e95",
+            "endNetworkNodeReference": "3973b6cf-a2e4-432c-8f61-13e2da62bcd1",
+            "startWaterNodeReference": null,
+            "endWaterNodeReference": null,
+            "startOverheadSupportAreaReference": null,
+            "endOverheadSupportAreaReference": null,
+            "startOverheadSupportPointReference": null,
+            "endOverheadSupportPointReference": null,
+            "versionCreationMetadata":
+            {
+               "reasonForChange": "Real",
+               "captureMethod": "Collection",
+               "confidenceLevel": "Confident",
+               "editDate": "2018-07-26",
+               "evidenceDate": "2018-07-26",
+               "jobReference": 42334591
+            }
+         },
+         "maintainersNoteComponent": null,
+         "nameComponents": [],
+         "networkReferenceComponent": null,
+         "oneWayRouteInformationComponent": null,
+         "overheadNodeComponent": null,
+         "overheadPointsComponent": null,
+         "physicalRestrictionComponent": null,
+         "planarAreaLocationComponent": null,
+         "planarLinearLocationComponent":
+         {
+            "componentId": "0021b346-8a3c-46ca-9d2e-75e0c96a46c9",
+            "versionNumber": 1,
+            "source": null,
+            "applicableContracts": [],
+            "locationType": "Unknown",
+            "vagueness": "Exact",
+            "authorities": [],
+            "versionCreationMetadata":
+            {
+               "reasonForChange": "Real",
+               "captureMethod": "Photogrammetry",
+               "confidenceLevel": "Confident",
+               "editDate": "2018-07-26",
+               "evidenceDate": "2018-07-26",
+               "jobReference": 42334591
+            }
+         },
+         "planarPointLocationComponent": null,
+         "pointHeightComponent": null,
+         "primaryStructureComponent": null,
+         "roadLinkComponent":
+         {
+            "componentId": "3f009479-0b1d-4c95-98dc-61064233d85b",
+            "versionNumber": 1,
+            "source": null,
+            "applicableContracts": [],
+            "isPrimary": false,
+            "isTrunk": false,
+            "versionCreationMetadata":
+            {
+               "reasonForChange": "Real",
+               "captureMethod": "Collection",
+               "confidenceLevel": "Confident",
+               "editDate": "2018-07-26",
+               "evidenceDate": "2018-07-26",
+               "jobReference": 42334591
+            }
+         },
+         "routeLocationComponent": null,
+         "siteNodeComponent": null,
+         "stakeholderComponents": [],
+         "symbolCartographyComponents": [],
+         "textCartographyComponents": [],
+         "thirdPartyInformationComponent": null,
+         "tideInformationComponent": null,
+         "topo93SeedGeometryComponent": null,
+         "waterFlowComponent": null,
+         "waterNavigabilityComponent": null,
+         "waterPermanenceComponent": null,
+         "waterProvenanceComponent": null,
+         "zoneLocationComponent": null
+      }
+   }
+   ],
+   "numberOfFeatures": 2
+}
