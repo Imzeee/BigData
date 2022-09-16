@@ -1,0 +1,18 @@
+AWS:
+ - AWS Backup: https://docs.aws.amazon.com/aws-backup/?id=docs_gateway
+ - AWS Crypto Tools: https://docs.aws.amazon.com/aws-crypto-tools/?id=docs_gateway
+ - AWS Firewall Manager: https://docs.aws.amazon.com/firewall-manager/?id=docs_gateway
+ - AWS App Runner: https://docs.aws.amazon.com/apprunner/?id=docs_gateway
+ - AWS Lambda: https://docs.aws.amazon.com/lambda/?id=docs_gateway
+ - AWS Deep Learning AMIs: https://docs.aws.amazon.com/dlami/?id=docs_gateway
+ - AWS Cloud9: https://docs.aws.amazon.com/cloud9/?id=docs_gateway
+
+
+Azure:
+ - Azure Databricks: https://docs.microsoft.com/en-us/azure/databricks/
+ - Azure Data Lake Analytics: https://docs.microsoft.com/en-ca/azure/data-lake-analytics/
+ - App Service: https://docs.microsoft.com/en-ca/azure/app-service/
+ - Anomaly Detector API: https://docs.microsoft.com/en-ca/azure/cognitive-services/anomaly-detector/
+ - Azure Machine Learning: https://docs.microsoft.com/en-ca/azure/machine-learning/
+ - Azure Pipelines: https://docs.microsoft.com/en-us/azure/devops/pipelines/?view=azure-devops
+ - Azure IoT Central: https://docs.microsoft.com/en-ca/azure/iot-central/
